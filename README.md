@@ -5,6 +5,7 @@ Simplification that helps prepare new hosts for managing from ansible master hos
 Usage:
 
 git clone https://github.com/cda75/anh && cd anh && sudo ./add_key.sh
+(Change $username variable in add_key.sh script to your preferred username)
 
 Then on the master host:
 
